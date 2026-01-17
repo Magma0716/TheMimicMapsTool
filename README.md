@@ -3,7 +3,7 @@
 A lightweight, always-on-top utility designed to help players navigate the dark and twisting worlds of **The Mimic**.  
 Keep your maps visible while you play without the need for a second monitor or constant alt-tabbing.
 
----
+
 
 ## Version History
 
@@ -20,14 +20,14 @@ Keep your maps visible while you play without the need for a second monitor or c
 - **Map Library**  
   Full support for **Book 1 (Chapters 1 ~ 4)** and **Book 2 (Chapter 1)**.
 
----
+
 
 ## Controls
 
-| Action            | Input                           |
-|-------------------|---------------------------------|
+| Action              | Input                           |
+|---------------------|---------------------------------|
 | Next / Previous Map | ⬅️ / ➡️ or **L** / **R** Button |
-| Shrink Window     | ⬆️ or **S** |
-| Expand Window     | ⬇️ or **S** |
-| Move Window       | Whole Windows |
-| Close Tool        | **X** |
+| Shrink Window       | ⬆️ or **S** |
+| Expand Window       | ⬇️ or **S** |
+| Move Window         | Whole Windows |
+| Close Window        | **X** |
